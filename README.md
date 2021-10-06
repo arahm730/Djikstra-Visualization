@@ -1,0 +1,1 @@
+Dijkstra's algorithm is used to find the shortest paths between nodes in a graph. 
